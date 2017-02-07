@@ -6,7 +6,7 @@
 //  Copyright (c) 2014 Starbucks. All rights reserved.
 //
 
-#import <Foundation/Foundation.h>
+#import <UIKit/UIKit.h>
 
 @interface NSAttributedString (DVSTracking)
 + (instancetype) dvs_attributedStringWithString:(NSString *)string
